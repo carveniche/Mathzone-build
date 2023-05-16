@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.084ddfc1.chunk.css",
+    "main.css": "/static/css/main.3a6a0e36.chunk.css",
     "main.js": "/static/js/main.fae3e8db.chunk.js",
     "main.js.map": "/static/js/main.fae3e8db.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6b12fa18.js",
@@ -8,13 +8,14 @@
     "static/js/2.a44c2e7f.chunk.js": "/static/js/2.a44c2e7f.chunk.js",
     "static/js/2.a44c2e7f.chunk.js.map": "/static/js/2.a44c2e7f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.084ddfc1.chunk.css.map": "/static/css/main.084ddfc1.chunk.css.map",
-    "static/js/2.a44c2e7f.chunk.js.LICENSE.txt": "/static/js/2.a44c2e7f.chunk.js.LICENSE.txt"
+    "static/css/main.3a6a0e36.chunk.css.map": "/static/css/main.3a6a0e36.chunk.css.map",
+    "static/js/2.a44c2e7f.chunk.js.LICENSE.txt": "/static/js/2.a44c2e7f.chunk.js.LICENSE.txt",
+    "static/media/react-mathquill-extension.css": "/static/media/Symbola.f647c929.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b12fa18.js",
     "static/js/2.a44c2e7f.chunk.js",
-    "static/css/main.084ddfc1.chunk.css",
+    "static/css/main.3a6a0e36.chunk.css",
     "static/js/main.fae3e8db.chunk.js"
   ]
 }
