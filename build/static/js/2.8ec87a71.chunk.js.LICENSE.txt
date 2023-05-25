@@ -17,7 +17,11 @@ object-assign
 
 /*! exports provided: default */
 
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
 /*! no static exports found */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /*!**********************!*\
         !*** ./src/index.js ***!
@@ -75,16 +79,26 @@ object-assign
         !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
         \*************************************************************/
 
-/*!********************************************************************!*\
-        !*** ./node_modules/@anishtiwari09/mathquills/build/mathquill.css ***!
-        \********************************************************************/
+/*!****************************************************************!*\
+        !*** ./node_modules/@carveniche/mathquill/build/mathquill.css ***!
+        \****************************************************************/
 
-/*!*********************************************************************************************************************************************************************!*\
-        !*** ./node_modules/exports-loader?window.MathQuill!./node_modules/imports-loader?window.jQuery=jquery!./node_modules/@anishtiwari09/mathquills/build/mathquill.js ***!
-        \*********************************************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************************************!*\
+        !*** ./node_modules/exports-loader?window.MathQuill!./node_modules/imports-loader?window.jQuery=jquery!./node_modules/@carveniche/mathquill/build/mathquill.js ***!
+        \*****************************************************************************************************************************************************************/
 
 /**
- * @mui/styled-engine v5.11.11
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @mui/styled-engine v5.13.2
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
