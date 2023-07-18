@@ -1359,7 +1359,12 @@ sup .fraction-root .fdn,
   justify-content: center;
   align-items: center;
 }
-
+#studentAnswerResponse div {
+  white-space: pre;
+}
 #studentAnswerResponse .mathzoneMultipleChoiceFlexBox {
+  white-space: pre-wrap;
+}
+#studentAnswerResponse.word-space_pre-wrap div {
   white-space: pre-wrap;
 }
