@@ -1368,3 +1368,9 @@ sup .fraction-root .fdn,
 #studentAnswerResponse.word-space_pre-wrap div {
   white-space: pre-wrap;
 }
+#studentAnswerResponse .word-space_pre-wrap div {
+  white-space: pre-wrap;
+}
+#parentIdQuizEditorOnline #studentAnswerResponse div {
+  white-space: initial;
+}
