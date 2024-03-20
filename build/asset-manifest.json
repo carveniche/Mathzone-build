@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.chunk.css.map": "/static/css/main.chunk.css.map",
     "static/js/2.chunk.js.LICENSE.txt": "/static/js/2.chunk.js.LICENSE.txt",
-    "static/media/OnlineQuiz.module.css": "/static/media/GothamRounded-Book.91f96e29.woff"
+    "static/media/OnlineQuiz.module.css": "/static/media/GothamRounded-Book.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.js",
