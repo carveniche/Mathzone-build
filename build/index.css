@@ -370,9 +370,9 @@ tr.ck-bottom-border td {
 
 .right-spac .num1 {
   display: inline-block;
-  padding: 4px;
+  padding: 0;
   position: relative;
-  letter-spacing: 18px;
+  letter-spacing: 8px;
 }
 
 .num1 .carry {
@@ -380,6 +380,13 @@ tr.ck-bottom-border td {
   top: -5px;
   font-size: 11px;
   left: 8px;
+}
+
+.right-spac {
+  overflow: scroll;
+  scrollbar-width: none;
+  display: inline-flex;
+  flex-wrap: nowrap;
 }
 
 .right-spac:nth-of-type(1) .num1 {
